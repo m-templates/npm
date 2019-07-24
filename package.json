@@ -1,6 +1,6 @@
 {
   "name": "@m.wang/npm-package-template",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "npm 模块工程",
   "scripts": {
     "commit": "git-cz",
